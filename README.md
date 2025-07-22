@@ -21,7 +21,7 @@ This project involves the design and simulation of a **single-stage CMOS operati
 
 ## 📷 Simulation Results
 
-![Gain vs Frequency](images/bode_plot.png)  
+[Gain vs Frequency] 
 <img width="1915" height="849" alt="image" src="https://github.com/user-attachments/assets/44eee902-b1e9-45c8-80f8-0a0fc46d0f57" />
 
 ---
