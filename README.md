@@ -1,1 +1,1 @@
-# Two-Stage-CMOS-OP-AMP
+# Single-Stage-CMOS-OP-AMP
