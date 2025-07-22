@@ -1,11 +1,11 @@
-# 📐 Single-Stage CMOS Operational Amplifier (180nm TSMC) – LTspice Simulation
+# Single-Stage CMOS Operational Amplifier (180nm TSMC) – LTspice Simulation
 
-## 🔍 Project Overview
+##  Project Overview
 This project involves the design and simulation of a **single-stage CMOS operational amplifier** using **180nm TSMC CMOS technology**, implemented in **LTspice**. The focus is on achieving proper transistor biasing, analyzing small-signal gain, and evaluating frequency response.
 
 ---
 
-## ⚙️ Features
+##  Features
 
 - **Technology**: 180nm TSMC CMOS
 - **Simulation Tool**: LTspice
@@ -19,14 +19,14 @@ This project involves the design and simulation of a **single-stage CMOS operati
 
 ---
 
-## 📷 Simulation Results
+##  Simulation Results
 
 [Gain vs Frequency] 
 <img width="1915" height="849" alt="image" src="https://github.com/user-attachments/assets/44eee902-b1e9-45c8-80f8-0a0fc46d0f57" />
 
 ---
 
-## 🧩 Files Included
+##  Files Included
 
 - `opamp.asc`: LTspice schematic file
 - `180nm_models.txt`: BSIM model file for 180nm TSMC CMOS
@@ -35,7 +35,7 @@ This project involves the design and simulation of a **single-stage CMOS operati
 
 ---
 
-## 🧪 How to Run the Simulation
+##  How to Run the Simulation
 
 1. **Download and install LTspice** (free from Analog Devices)
 2. Open `opamp.asc` in LTspice
@@ -47,7 +47,7 @@ This project involves the design and simulation of a **single-stage CMOS operati
 
 ---
 
-## 👤 Author
+## Author
 
 **Jishnu Madav**  
 _NITK Surathkal | Analog & Digital Enthusiast_  
